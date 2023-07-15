@@ -1,0 +1,9 @@
+.vscode/
+*.csv
+bin/
+.DS_Store
+*.ipynb
+build/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
